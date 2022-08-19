@@ -1,2 +1,1 @@
-My first Readme
-updated readme file
+Updating and Commiting From Github Interface
